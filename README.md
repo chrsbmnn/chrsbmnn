@@ -12,7 +12,7 @@
 
 I work where **operations, business processes, data and technology** meet.
 
-My focus is not just on shipping things, but on designing solutions that make sense in the real operation: systems that reduce manual work, connect disconnected tools, improve traceability and help teams work with more structure.
+My focus is not just on delivering features, but on designing solutions that make sense in the real operation: systems that reduce manual work, connect disconnected tools, improve traceability and help teams work with more structure.
 
 In practice, that means turning messy workflows into **usable systems**.
 
@@ -28,53 +28,42 @@ In practice, that means turning messy workflows into **usable systems**.
 
 ---
 
-## Core areas
+## Featured work
 
-### Automation & business systems
-- Power Apps
-- Power Automate
-- Dataverse
-- SharePoint
-- Dynamics 365
-- Business Central
+### Document processing and workflow automation
+Designing flows that capture, classify, validate and route business documents with less manual work and better operational control.
 
-### Data & analytics
-- Power BI
-- SQL
-- Power Query
-- DAX
+### Financial reconciliation and operational logic
+Building systems that support matching, traceability and structured financial processes across multiple business scenarios.
 
-### Development
-- Python
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Supabase
+### Platform and API integrations
+Connecting internal systems, business platforms and external services so information moves reliably across the operation.
 
-### Integration
-- REST APIs
-- Custom connectors
-- System-to-system workflows
+### Internal business applications
+Creating tools that support real teams, real tasks and real workflows instead of adding more friction.
+
+### Data models and reporting
+Structuring operational and financial data so it becomes useful for analysis, monitoring and decision-making.
 
 ---
 
-## Signature work
+## Tech I work with
 
-### Internal business applications
-Designing tools that support real operational processes instead of adding extra friction.
-
-### Workflow and document automation
-Building flows that reduce manual handling, improve consistency and increase traceability across teams.
-
-### Platform and API integrations
-Connecting business platforms, external services and internal systems so information moves reliably.
-
-### Data models and reporting
-Turning operational and financial data into structures that support analysis and decision-making.
-
-### Process improvement
-Identifying bottlenecks, redesigning flows and shaping digital solutions around how the business actually works.
+<p>
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Dataverse-0F6CBD?style=flat-square" alt="Dataverse" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Business%20Central-005CA5?style=flat-square" alt="Business Central" />
+  <img src="https://img.shields.io/badge/SharePoint-03787C?style=flat-square" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/APIs-475569?style=flat-square" alt="APIs" />
+</p>
 
 ---
 
@@ -107,40 +96,11 @@ I am especially comfortable in roles where I need to connect:
 
 ---
 
-## Interests
-
-- Automation with real ROI
-- Internal software
-- Process design
-- Data-driven operations
-- Productive uses of AI
-- System architecture in real business environments
-
----
-
-## Tech I work with
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Dataverse-0F6CBD?style=flat-square" alt="Dataverse" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Business%20Central-005CA5?style=flat-square" alt="Business Central" />
-  <img src="https://img.shields.io/badge/SharePoint-03787C?style=flat-square" alt="SharePoint" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/APIs-475569?style=flat-square" alt="APIs" />
-</p>
-
----
-
-## Contact
+## Connect
 
 - GitHub: [@chrsbmnn](https://github.com/chrsbmnn)
+- LinkedIn: *(add your link here)*
+- Portfolio: *(add your link here when ready)*
 
 ---
 

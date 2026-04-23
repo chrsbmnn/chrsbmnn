@@ -1,6 +1,6 @@
 # Christian Pérez Bumann 👋
 
-### Building systems, automations and digital solutions for real business operations
+### Designing systems that automate business processes and turn data into decisions
 
 <p>
   <img src="https://img.shields.io/badge/Project%20Management-1f2937?style=for-the-badge" alt="Project Management" />
@@ -10,20 +10,21 @@
   <img src="https://img.shields.io/badge/Data%20%26%20Analytics-6b7280?style=for-the-badge" alt="Data and Analytics" />
 </p>
 
-I work where **operations, business processes, data and technology** meet.
+I work where **business operations, information systems, data and technology** meet.
 
-My focus is not just on delivering features, but on designing solutions that make sense in the real operation: systems that reduce manual work, connect disconnected tools, improve traceability and help teams work with more structure.
+My focus is not just on delivering features, dashboards or automations in isolation. I design practical systems that make sense in the real operation: solutions that reduce manual work, connect disconnected tools, improve traceability and help teams work with more structure.
 
-In practice, that means turning messy workflows into **usable systems**.
+In practice, that means turning operational complexity into **structured, usable systems**.
 
 ---
 
 ## What I do
 
-- Design and improve **information systems**
-- Build **automations** that remove repetitive operational work
-- Create **integrations** between platforms, APIs and internal tools
-- Model data for **reporting and decision-making**
+- Design and improve **information systems** for real business operations
+- Build **automations** that remove repetitive administrative work
+- Create **integrations** between platforms, APIs, databases and internal tools
+- Model data for **reporting, monitoring and decision-making**
+- Develop **internal business applications** that support processes between departments
 - Connect **business needs, technical implementation and execution**
 
 ---
@@ -64,7 +65,9 @@ Structuring operational and financial data so it becomes useful for analysis, mo
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" alt="Next.js" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" alt="Supabase" />
   <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/APIs-475569?style=flat-square" alt="APIs" />
+  <img src="https://img.shields.io/badge/OData-64748B?style=flat-square" alt="OData" />
 </p>
 
 ---
@@ -76,24 +79,25 @@ I like solutions that are:
 - useful
 - maintainable
 - understandable
-- well connected to the real business process
+- connected to the real business process
 - designed for both the operation and the people using them
 
 I am especially comfortable in roles where I need to connect:
 
-**business + systems + execution**
+**business + systems + data + execution**
 
 ---
 
 ## Currently
 
-- Working as a **Project Manager** with a strong hands-on focus on systems and automation
+- Working as a **Project Manager** with a strong hands-on focus on information systems, automation and integrations
 - Studying **Computer Engineering**
 - Building digital products and internal tools
 - Strengthening a profile at the intersection of:
   - product thinking
   - software development
   - automation architecture
+  - data modeling
   - information systems
 
 ---
@@ -106,4 +110,4 @@ I am especially comfortable in roles where I need to connect:
 
 ---
 
-> I like turning operational complexity into structured, usable systems.
+> I do not build systems from theory. I build them from real operational problems.

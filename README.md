@@ -56,6 +56,8 @@ Structuring operational and financial data so it becomes useful for analysis, mo
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="Power BI" />
   <img src="https://img.shields.io/badge/Business%20Central-005CA5?style=flat-square" alt="Business Central" />
   <img src="https://img.shields.io/badge/SharePoint-03787C?style=flat-square" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square" alt="Vercel" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" alt="React" />
@@ -99,8 +101,8 @@ I am especially comfortable in roles where I need to connect:
 ## Connect
 
 - GitHub: [@chrsbmnn](https://github.com/chrsbmnn)
-- LinkedIn: *(add your link here)*
-- Portfolio: *(add your link here when ready)*
+- LinkedIn: [christian-bumann](https://www.linkedin.com/in/christian-bumann/)
+- Portfolio: [bybumann.com](https://bybumann.com)
 
 ---
 

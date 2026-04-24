@@ -1,6 +1,6 @@
 # Christian Pérez Bumann 👋
 
-### Designing systems that automate business processes and turn data into decisions
+### Turning operational complexity into useful systems, integrations and data models
 
 <p>
   <img src="https://img.shields.io/badge/Project%20Management-1f2937?style=for-the-badge" alt="Project Management" />
@@ -12,39 +12,42 @@
 
 I work where **business operations, information systems, data and technology** meet.
 
-My focus is not just on delivering features, dashboards or automations in isolation. I design practical systems that make sense in the real operation: solutions that reduce manual work, connect disconnected tools, improve traceability and help teams work with more structure.
+My focus is on turning real operational problems into **structured, usable and maintainable systems**: automations that remove manual work, integrations that connect disconnected tools, internal applications that support daily operations, and data models that make business information easier to understand.
 
-In practice, that means turning operational complexity into **structured, usable systems**.
+I do not build technology in isolation. I try to understand how the process actually works, where the friction is, and what kind of system makes the work clearer, faster and easier to control.
 
 ---
 
 ## What I do
 
 - Design and improve **information systems** for real business operations
-- Build **automations** that remove repetitive administrative work
+- Build **automations** that reduce repetitive administrative work
 - Create **integrations** between platforms, APIs, databases and internal tools
-- Model data for **reporting, monitoring and decision-making**
-- Develop **internal business applications** that support processes between departments
+- Develop **internal business applications** with Power Apps and Dataverse
+- Model operational and financial data for **reporting, monitoring and decision-making**
 - Connect **business needs, technical implementation and execution**
 
 ---
 
 ## Featured work
 
-### Document processing and workflow automation
-Designing flows that capture, classify, validate and route business documents with less manual work and better operational control.
+### Custom banking connector
+Built a custom connector to integrate a banking API into Power Platform, handling authentication, API calls and Dataverse transaction loading for use in apps and automations.
 
-### Financial reconciliation and operational logic
-Building systems that support matching, traceability and structured financial processes across multiple business scenarios.
+### Supplier document automation
+Automated high-volume supplier document processing, including download, decompression, SharePoint classification, invoice data extraction and cross-checking with internal systems.
 
-### Platform and API integrations
-Connecting internal systems, business platforms and external services so information moves reliably across the operation.
+### Internal billing case management
+Designed internal case-style workflows to track billing differences between administration and sales, improving traceability and reducing manual follow-up.
 
-### Internal business applications
-Creating tools that support real teams, real tasks and real workflows instead of adding more friction.
+### FACe invoice status control
+Built automation to monitor the status of invoices submitted to public entities and notify the relevant office when a rejection required review.
 
-### Data models and reporting
-Structuring operational and financial data so it becomes useful for analysis, monitoring and decision-making.
+### Financial and operational Power BI models
+Created Power BI models from Business Central data, adapting financial information to the Spanish General Accounting Plan and building reports for P&L, balance sheet, KPIs and operational tracking.
+
+### Data processing and integration
+Developed SQL queries, Python scripts, Power Query transformations and automations to prepare, validate, transform and match data across internal processes.
 
 ---
 
@@ -90,11 +93,11 @@ I am especially comfortable in roles where I need to connect:
 
 ## Currently
 
-- Working as a **Project Manager** with a strong hands-on focus on information systems, automation and integrations
+- Working as a **Project Manager** with a hands-on focus on information systems, automation, integrations and data models
 - Studying **Computer Engineering**
-- Building digital products and internal tools
+- Building digital products, internal tools and web applications
 - Strengthening a profile at the intersection of:
-  - product thinking
+  - business process improvement
   - software development
   - automation architecture
   - data modeling

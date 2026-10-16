@@ -1,12 +1,12 @@
 # Hi, I'm Christian 👋
 
-**I drive innovation from inside the operation.** I find where a business loses time — supplier invoices, bank movements, reconciliations, absences, billing differences — and turn it into software people actually use every day.
+**I drive innovation from inside the operation.** I find where a business loses time — supplier invoices, bank movements, reconciliations, absences, billing differences — and turn it into software that people use every day.
 
-📍 Las Palmas de Gran Canaria · 🌐 [bybumann.com](https://bybumann.com) · 💼 [LinkedIn](https://www.linkedin.com/in/christian-bumann/)
+Las Palmas de Gran Canaria · [bybumann.com](https://bybumann.com) · [LinkedIn](https://www.linkedin.com/in/christian-bumann/)
 
 ---
 
-## 🛠️ What I'm building now
+## What I'm building now
 
 ### A corporate intranet for a travel group — from scratch, in production
 
@@ -22,13 +22,13 @@ A multi-app platform (suppliers, customers, HR, brand assets) that replaces spre
 
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `React` `TypeScript` `Vite` `TanStack Query` `Tailwind` `Azure` `Bicep` `GitHub Actions` `Microsoft Graph`
 
-### 🤖 AI-assisted engineering, with guardrails
+### AI-assisted engineering, with guardrails
 
-Most of that code is written together with AI coding agents (Claude Code). What makes it work isn't the model — it's the **engineering system around it**: written architecture and style guides the agents must follow, small stacked PRs, a CI that can't be bypassed, and human review before anything reaches `master`. I design the process, define the product, and review every change — which is how one person ships what used to take a team.
+Most of that code is written together with AI coding agents (Claude Code). The model is the easy part. What makes it work is the **system around it**: written architecture and style guides the agents must follow, small stacked PRs, a CI that can't be bypassed, and human review before anything reaches `master`. I design the process, define the product, and review every change.
 
 ---
 
-## 📦 Before that, and still alongside
+## Before that, and still alongside
 
 - **Custom banking connector** for Power Platform — authentication, API calls and transaction loading into Dataverse.
 - **Supplier document automation** — high-volume download, decompression, SharePoint classification and invoice data extraction.
@@ -41,16 +41,20 @@ Most of that code is written together with AI coding agents (Claude Code). What 
 
 ---
 
-## 🧭 How I work
+## How I work
 
-- **Understand the process before writing code.** The system should follow how the work is really done, not the other way around.
+- **Understand the process before writing code.** The system follows how the work is really done, not the other way around. And if a piece is missing, I ask — I don't invent the rule.
 - **The structure is never the shortcut.** Scope can be cut in features, never in data model, security or auditing.
 - **Write it down.** Commit messages explain the *why*, PRs say what was *not* done and *not* tested, and users get a manual.
 
 ---
 
-## 📚 Currently
+## Currently
 
 Driving **digital innovation** at a travel group — new internal products, automation, integrations and data · Studying **Computer Engineering**.
 
-> Most of my work lives in private repositories for the companies I build it for. Happy to walk through it — [get in touch](https://www.linkedin.com/in/christian-bumann/).
+Most of my work lives in private repositories. Happy to walk through it — [get in touch](https://www.linkedin.com/in/christian-bumann/).
+
+---
+
+> I do not build systems from theory. I build them from real operational problems.

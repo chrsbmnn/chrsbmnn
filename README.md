@@ -1,6 +1,6 @@
 # Hi, I'm Christian 👋
 
-**I drive innovation from inside the operation.** I find where a business loses time — supplier invoices, bank movements, reconciliations, absences, billing differences — and turn it into software that people use every day.
+**I drive innovation from the inside.** I find where a business loses time — supplier invoices, bank transactions, reconciliations, absences, billing discrepancies — and turn it into tools people rely on every day.
 
 Las Palmas de Gran Canaria · [bybumann.com](https://bybumann.com) · [LinkedIn](https://www.linkedin.com/in/christian-bumann/)
 
@@ -8,34 +8,34 @@ Las Palmas de Gran Canaria · [bybumann.com](https://bybumann.com) · [LinkedIn]
 
 ## What I'm building now
 
-### A corporate intranet for a travel group — from scratch, in production
+### A corporate intranet for a travel group — built from scratch, used every day
 
-A multi-app platform (suppliers, customers, HR, brand assets) that replaces spreadsheets, inbox folders and copy-paste between systems.
+A platform of several applications (suppliers, customers, HR and brand assets) that replaces spreadsheets, inbox folders and copy-pasting between systems.
 
-- **From supplier email to validated invoice** — mail is read from Microsoft 365, PDFs are extracted (rules + AI), matched line by line against the ERP, and every difference is tracked until someone closes it.
-- **Reconciliation that works like a person does** — when lines don't match one to one, it searches combinations whose totals add up and proposes them for review instead of guessing.
-- **Bank, cards, BSP/IATA, commissions and accounting** under one roof, plus customer collections and HR absences synced from Factorial via webhooks.
-- **Built to be trusted** — multi-tenant PostgreSQL with Row-Level Security, full audit trail, role-based permissions, live updates over SSE.
-- **Built to last** — branch protection, mandatory CI (lint, types, tests, secret scanning), infrastructure as code on Azure, and in-app user manuals plus a changelog written for end users, updated in the same PR as the code.
+- **From supplier email to validated invoice** — it reads mail from Microsoft 365, extracts PDF data using rules and AI, matches each line against the ERP, and tracks every discrepancy until someone resolves it.
+- **Reconciliation that thinks like a person** — when lines don't match one to one, it looks for combinations that add up and suggests them for review rather than guessing.
+- **One tool, not ten** — bank, cards, IATA BSP, commissions and accounting, plus customer collections and absences that arrive from Factorial the moment they're logged.
+- **Data you can trust** — multi-tenant PostgreSQL with row-level security, a full audit trail, role-based permissions and screens that update themselves.
+- **Built to be maintained** — nothing ships without review and a passing CI run (linting, type checks, tests and secret scanning). The Azure infrastructure is defined as code, and every change comes with its own user manual update and release note.
 
-<sub>~3,000 commits · ~900 pull requests · 270 database migrations · since June 2026</sub>
+<sub>3,000+ commits · 800+ pull requests · 270+ database migrations · since June 2026</sub>
 
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `React` `TypeScript` `Vite` `TanStack Query` `Tailwind` `Azure` `Bicep` `GitHub Actions` `Microsoft Graph`
 
 ### AI-assisted engineering, with guardrails
 
-Most of that code is written together with AI coding agents (Claude Code). The model is the easy part. What makes it work is the **system around it**: written architecture and style guides the agents must follow, small stacked PRs, a CI that can't be bypassed, and human review before anything reaches `master`. I design the process, define the product, and review every change.
+Most of that code is written with AI coding agents (Claude Code). The model is the easy part. What makes it work is everything around it: architecture and style guides the agents have to follow, small stacked pull requests, a CI pipeline nobody can bypass, and human review before anything reaches `master`. I design the process, own the product and review every change.
 
 ---
 
-## Before that, and still alongside
+## Other work, past and ongoing
 
-- **Custom banking connector** for Power Platform — authentication, API calls and transaction loading into Dataverse.
-- **Supplier document automation** — high-volume download, decompression, SharePoint classification and invoice data extraction.
-- **FACe invoice monitoring** — tracking invoices sent to public administrations and alerting the right office on rejection.
-- **Financial Power BI models** on Business Central data, mapped to the Spanish General Accounting Plan (P&L, balance sheet, KPIs).
-- **Data plumbing** — ODBC-to-Postgres sync, ERP ↔ HR integrations, SQL / Python / Power Query pipelines.
-- **Web products** — multi-tenant SaaS for studio management and websites built with Next.js, Astro and Supabase.
+- **Custom banking connector** for Power Platform — authentication, API calls and loading transactions into Dataverse.
+- **Supplier document automation** — high-volume downloading, unzipping, SharePoint filing and invoice data extraction.
+- **FACe invoice monitoring** — tracking invoices sent to Spanish public bodies and alerting the right office when one is rejected.
+- **Financial Power BI models** built on Business Central data and mapped to the Spanish chart of accounts (P&L, balance sheet, KPIs).
+- **Data plumbing** — ODBC-to-PostgreSQL sync, ERP–HR integrations, and SQL, Python and Power Query pipelines.
+- **Web products** — a multi-tenant SaaS for studio management, and websites built with Next.js, Astro and Supabase.
 
 `Power Apps` `Power Automate` `Dataverse` `Power BI` `Business Central` `SharePoint` `Next.js` `Astro` `Supabase` `SQL`
 
@@ -43,9 +43,9 @@ Most of that code is written together with AI coding agents (Claude Code). The m
 
 ## How I work
 
-- **Understand the process before writing code.** The system follows how the work is really done, not the other way around. And if a piece is missing, I ask — I don't invent the rule.
-- **The structure is never the shortcut.** Scope can be cut in features, never in data model, security or auditing.
-- **Write it down.** Commit messages explain the *why*, PRs say what was *not* done and *not* tested, and users get a manual.
+- **Understand the process before writing any code.** The tool fits the way the work actually gets done, not the other way around. And when something's missing, I ask rather than make up the rule.
+- **Never cut corners on structure.** Features can be cut; the data model, security and audit trail can't.
+- **Write it down.** Commit messages explain the *why*, pull requests say what was left out and what couldn't be tested, and users get a manual.
 
 ---
 
@@ -53,7 +53,7 @@ Most of that code is written together with AI coding agents (Claude Code). The m
 
 Driving **digital innovation** at a travel group — new internal products, automation, integrations and data · Studying **Computer Engineering**.
 
-Most of my work lives in private repositories. Happy to walk through it — [get in touch](https://www.linkedin.com/in/christian-bumann/).
+Most of my work lives in private repositories. Happy to walk you through it — [get in touch](https://www.linkedin.com/in/christian-bumann/).
 
 ---
 

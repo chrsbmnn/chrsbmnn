@@ -1,116 +1,56 @@
-# Christian Pérez Bumann 👋
+# Hi, I'm Christian 👋
 
-### Turning operational complexity into useful systems, integrations and data models
+**I drive innovation from inside the operation.** I find where a business loses time — supplier invoices, bank movements, reconciliations, absences, billing differences — and turn it into software people actually use every day.
 
-<p>
-  <img src="https://img.shields.io/badge/Project%20Management-1f2937?style=for-the-badge" alt="Project Management" />
-  <img src="https://img.shields.io/badge/Information%20Systems-111827?style=for-the-badge" alt="Information Systems" />
-  <img src="https://img.shields.io/badge/Automation-374151?style=for-the-badge" alt="Automation" />
-  <img src="https://img.shields.io/badge/Integrations-4b5563?style=for-the-badge" alt="Integrations" />
-  <img src="https://img.shields.io/badge/Data%20%26%20Analytics-6b7280?style=for-the-badge" alt="Data and Analytics" />
-</p>
-
-I work where **business operations, information systems, data and technology** meet.
-
-My focus is on turning real operational problems into **structured, usable and maintainable systems**: automations that remove manual work, integrations that connect disconnected tools, internal applications that support daily operations, and data models that make business information easier to understand.
-
-I do not build technology in isolation. I try to understand how the process actually works, where the friction is, and what kind of system makes the work clearer, faster and easier to control.
+📍 Las Palmas de Gran Canaria · 🌐 [bybumann.com](https://bybumann.com) · 💼 [LinkedIn](https://www.linkedin.com/in/christian-bumann/)
 
 ---
 
-## What I do
+## 🛠️ What I'm building now
 
-- Design and improve **information systems** for real business operations
-- Build **automations** that reduce repetitive administrative work
-- Create **integrations** between platforms, APIs, databases and internal tools
-- Develop **internal business applications** with Power Apps and Dataverse
-- Model operational and financial data for **reporting, monitoring and decision-making**
-- Connect **business needs, technical implementation and execution**
+### A corporate intranet for a travel group — from scratch, in production
 
----
+A multi-app platform (suppliers, customers, HR, brand assets) that replaces spreadsheets, inbox folders and copy-paste between systems.
 
-## Featured work
+- **From supplier email to validated invoice** — mail is read from Microsoft 365, PDFs are extracted (rules + AI), matched line by line against the ERP, and every difference is tracked until someone closes it.
+- **Reconciliation that works like a person does** — when lines don't match one to one, it searches combinations whose totals add up and proposes them for review instead of guessing.
+- **Bank, cards, BSP/IATA, commissions and accounting** under one roof, plus customer collections and HR absences synced from Factorial via webhooks.
+- **Built to be trusted** — multi-tenant PostgreSQL with Row-Level Security, full audit trail, role-based permissions, live updates over SSE.
+- **Built to last** — branch protection, mandatory CI (lint, types, tests, secret scanning), infrastructure as code on Azure, and in-app user manuals plus a changelog written for end users, updated in the same PR as the code.
 
-### Custom banking connector
-Built a custom connector to integrate a banking API into Power Platform, handling authentication, API calls and Dataverse transaction loading for use in apps and automations.
+<sub>~3,000 commits · ~900 pull requests · 270 database migrations · since June 2026</sub>
 
-### Supplier document automation
-Automated high-volume supplier document processing, including download, decompression, SharePoint classification, invoice data extraction and cross-checking with internal systems.
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `React` `TypeScript` `Vite` `TanStack Query` `Tailwind` `Azure` `Bicep` `GitHub Actions` `Microsoft Graph`
 
-### Internal billing case management
-Designed internal case-style workflows to track billing differences between administration and sales, improving traceability and reducing manual follow-up.
+### 🤖 AI-assisted engineering, with guardrails
 
-### FACe invoice status control
-Built automation to monitor the status of invoices submitted to public entities and notify the relevant office when a rejection required review.
-
-### Financial and operational Power BI models
-Created Power BI models from Business Central data, adapting financial information to the Spanish General Accounting Plan and building reports for P&L, balance sheet, KPIs and operational tracking.
-
-### Data processing and integration
-Developed SQL queries, Python scripts, Power Query transformations and automations to prepare, validate, transform and match data across internal processes.
+Most of that code is written together with AI coding agents (Claude Code). What makes it work isn't the model — it's the **engineering system around it**: written architecture and style guides the agents must follow, small stacked PRs, a CI that can't be bypassed, and human review before anything reaches `master`. I design the process, define the product, and review every change — which is how one person ships what used to take a team.
 
 ---
 
-## Tech I work with
+## 📦 Before that, and still alongside
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Dataverse-0F6CBD?style=flat-square" alt="Dataverse" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Business%20Central-005CA5?style=flat-square" alt="Business Central" />
-  <img src="https://img.shields.io/badge/SharePoint-03787C?style=flat-square" alt="SharePoint" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/APIs-475569?style=flat-square" alt="APIs" />
-  <img src="https://img.shields.io/badge/OData-64748B?style=flat-square" alt="OData" />
-</p>
+- **Custom banking connector** for Power Platform — authentication, API calls and transaction loading into Dataverse.
+- **Supplier document automation** — high-volume download, decompression, SharePoint classification and invoice data extraction.
+- **FACe invoice monitoring** — tracking invoices sent to public administrations and alerting the right office on rejection.
+- **Financial Power BI models** on Business Central data, mapped to the Spanish General Accounting Plan (P&L, balance sheet, KPIs).
+- **Data plumbing** — ODBC-to-Postgres sync, ERP ↔ HR integrations, SQL / Python / Power Query pipelines.
+- **Web products** — multi-tenant SaaS for studio management and websites built with Next.js, Astro and Supabase.
+
+`Power Apps` `Power Automate` `Dataverse` `Power BI` `Business Central` `SharePoint` `Next.js` `Astro` `Supabase` `SQL`
 
 ---
 
-## How I work
+## 🧭 How I work
 
-I like solutions that are:
-
-- useful
-- maintainable
-- understandable
-- connected to the real business process
-- designed for both the operation and the people using them
-
-I am especially comfortable in roles where I need to connect:
-
-**business + systems + data + execution**
+- **Understand the process before writing code.** The system should follow how the work is really done, not the other way around.
+- **The structure is never the shortcut.** Scope can be cut in features, never in data model, security or auditing.
+- **Write it down.** Commit messages explain the *why*, PRs say what was *not* done and *not* tested, and users get a manual.
 
 ---
 
-## Currently
+## 📚 Currently
 
-- Working as a **Project Manager** with a hands-on focus on information systems, automation, integrations and data models
-- Studying **Computer Engineering**
-- Building digital products, internal tools and web applications
-- Strengthening a profile at the intersection of:
-  - business process improvement
-  - software development
-  - automation architecture
-  - data modeling
-  - information systems
+Driving **digital innovation** at a travel group — new internal products, automation, integrations and data · Studying **Computer Engineering**.
 
----
-
-## Connect
-
-- GitHub: [@chrsbmnn](https://github.com/chrsbmnn)
-- LinkedIn: [christian-bumann](https://www.linkedin.com/in/christian-bumann/)
-- Portfolio: [bybumann.com](https://bybumann.com)
-
----
-
-> I do not build systems from theory. I build them from real operational problems.
+> Most of my work lives in private repositories for the companies I build it for. Happy to walk through it — [get in touch](https://www.linkedin.com/in/christian-bumann/).
